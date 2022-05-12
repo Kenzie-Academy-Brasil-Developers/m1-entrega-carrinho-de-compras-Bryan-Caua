@@ -1,0 +1,21 @@
+.card{
+    background-color: aquamarine;
+    text-align: center;
+    list-style: none;
+    margin: auto;
+}
+p{
+background-color: blueviolet;
+text-align: center;
+color: white;
+margin: auto;
+}
+button{
+    width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #FCC302;
+    font-size: 18px;
+}
